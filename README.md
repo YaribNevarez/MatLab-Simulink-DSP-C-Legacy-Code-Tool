@@ -250,3 +250,7 @@ double low_pass_filter_wrapper(double u1)
 ```
 
 The generated filter blocks are used in a simulation, the simulation has three independent filter blocks, continues time, discrete time, and legacy code. It displays the filter results of all these for comparison.
+
+Best regards,
+
+-Yarib Nevárez
